@@ -2,9 +2,9 @@
 
 ### 📚 Free Git Cheatsheets
 
-🔗 [Download the Git Cheatsheet from Atlassian](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
-🔗 [Download the Git Cheatsheet from GitHub](https://training.github.com/downloads/github-git-cheat-sheet/)
-🔗 [Download the Git Cheatsheet from GitLab](https://about.gitlab.com/images/press/git-cheat-sheet.pdf)
+🔗 [Download the Git Cheatsheet from Atlassian](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)  
+🔗 [Download the Git Cheatsheet from GitHub](https://training.github.com/downloads/github-git-cheat-sheet/)  
+🔗 [Download the Git Cheatsheet from GitLab](https://about.gitlab.com/images/press/git-cheat-sheet.pdf)  
 
 ---
 
